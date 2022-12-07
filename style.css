@@ -1,0 +1,151 @@
+.parentdiv1{
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-top: 35px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    font-family: 'Karla', sans-serif;
+
+    font-weight:400px;
+    height:50px;
+    box-sizing: border-box;
+    font-size: 20px;
+
+}
+#a1{
+    color: gray;
+    text-decoration: none;
+}
+.parentdiv2 {
+    background-color: rgb(39, 33, 54);
+    color: white;
+    font-size: 20px;
+    font-family: 'Karla', sans-serif;
+    position: relative;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+}
+.child21{
+    position:absolute;
+    left: 0cm;
+    top: 400px;
+    right: 100px;
+}
+.child211{
+    position: absolute;
+    left: 800px;
+    top: 100px;
+}
+.child212{
+    position: absolute;
+    top: -80px;
+    right: 0;
+}
+.child22{
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 600px;
+}
+#heading{
+    font-weight: 400;
+    font-size: 75px;
+    font-family: "DM Serif Display";
+}
+#button1 {
+    background-color: transparent;
+}
+#button2{
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    border-color: white;
+}
+.parentdiv3{
+    margin-top: 750px;
+    color:black;
+    margin-left: -500px;
+    font-size:40px;
+    font-family: "DM Serif Display";
+}
+
+.parentdiv4{
+    margin-top: 400px;
+    margin-left:200px;
+    color:black;
+    
+    display:flex;
+
+    align-items: center;
+    margin-right:400px;
+    width:1000px;
+    margin-left:250px;
+    
+    
+}
+#p2{
+    color:gray;
+    font-size:17px;
+    margin-right: 5px;
+    padding-right:5px;
+}
+.parentdiv5{
+    background-color: rgb(39, 33, 54);
+    color: white;
+    font-family: "DM Serif Display";
+    height:200px;
+    width:900px;
+    margin-left: 250px;
+    
+    font-size:30px;
+    padding-left:20px;
+    padding-bottom: 20px;
+    display:flex;
+    flex-direction: row;
+    margin-right: 100px;
+    align-items: center;
+    
+    padding: 4%;
+}
+    
+
+#button3{
+    background-color:transparent;
+    color: white;
+    border-color: white; 
+    margin-top: 30px;
+}
+.parentdiv6{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left:250px;
+    margin-top:75px;
+    margin-right:400px;
+    
+}
+hr{
+    margin-left:250px;
+    margin-right:180px;
+}
+
+.parentdiv7{
+    display:flex;
+    flex-direction: row;
+        justify-content:space-between;
+        margin-left:250px;
+    margin-right:400px;
+    font-family: 'Karla', sans-serif;
+
+    font-weight:400px;
+    
+    }
+#h5{
+    color:gray;
+    font-size: 25px;
+}
+#a2{
+    color:black;
+    text-decoration: none;
+}
